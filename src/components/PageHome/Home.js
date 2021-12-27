@@ -73,7 +73,7 @@ function Home() {
                 <C.DivBlur>
                     <img src={person.photo} />
                 </C.DivBlur>
-                <h3>{person.name}, {person.age}</h3>
+                <h3>{person.name} {person.age}</h3>
                 <p>{person.bio}</p>
             </C.CardDiv>
             :
