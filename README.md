@@ -17,7 +17,7 @@ A ideia central deste projeto é realizar uma integração com a API astromatch,
 
 ## Deploy da Aplicação com Surge: 
 
-https://dysfunctional-copy.surge.sh/
+https://elfin-railway.surge.sh
 
 ## Tecnologias utilizadas
 
